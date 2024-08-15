@@ -1,7 +1,7 @@
 # Isometric Island
 
 This project is a Java-based game that pseudorandomly generates an interactive explorable world. The game can be run in both interactive and batch modes, allowing users to either interact with the game in real-time or generate worlds based on predefined seeds.
-From the main menu, players can start a new game, load a saved game, or create a world with custom settings. To generate a world with custom settings, players can specify parameters such as world dimensions, spread, shape, room dimensions, and more.
+From the main menu, players can start a new game, load a saved game, or create a world with custom settings. To generate a world with custom settings, players can specify parameters such as world dimensions, spread, shape, room dimensions, and more. This project was featured as one of 3 Outstanding projects during the Summer 2024 iteration of UC Berkeley's DSA course, and is posted here for employers to view and use (NOT FOR FUTURE STUDENTS!)
 
 ## Features
 
